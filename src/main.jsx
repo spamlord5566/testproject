@@ -5,5 +5,5 @@ import Website from './Website'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Website/>
-  </StrictMode>,
+  </StrictMode>
 )
